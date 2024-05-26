@@ -1,6 +1,13 @@
 # GroupInfo
 Providing general information about CyberSecuritySacramento
 
+# Socials and Other links
+[Website](https://cybersecuritysacramento.github.io/cybersecsac/)
+[Twitter](https://twitter.com/CyberSecSac)
+[Insta](https://www.instagram.com/cybersecsac)
+[Threads](https://www.threads.net/@cybersecsac)
+[TikTok](https://www.tiktok.com/@cybersecsac)
+
 ---
 
 # Code of Conduct
